@@ -77,18 +77,23 @@ I have enjoyed programming since approximately 2018, when, after seeing how some
 </a>
 
 <br/>
+<a href="https://github.com/FJVicVel03" align="left">
+  <img src="https://fernando-vercel.vercel.app/api/top-langs/?username=FJVicVel03&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
+<br/>
 <b>Top Repositories</b>
 
 <table border="0">
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/FJVicVel03/OLC2_Proyecto1_202111576">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FJVicVel03&repo=OLC2_Proyecto1_202111576&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img src="https://fernando-vercel.vercel.app/api/pin/?username=FJVicVel03&repo=OLC2_Proyecto1_202111576&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/FJVicVel03/Semi1-A-2S2025-Grupo5-Practica2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FJVicVel03&repo=Semi1-A-2S2025-Grupo5-Practica2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+        <img src="https://fernando-vercel.vercel.app/api/pin/?username=FJVicVel03&repo=Semi1-A-2S2025-Grupo5-Practica2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
