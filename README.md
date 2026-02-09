@@ -72,9 +72,12 @@ I have enjoyed programming since approximately 2018, when, after seeing how some
   </a>
 </p>
 
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=&preferLogin=true">    <img  alt="FJVicVel03's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/FJVicVel03?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true" />  </a>
+
 <a href="https://github.com/FJVicVel03" align="left">
   <img src="https://fernando-vercel.vercel.app/api/top-langs/?username=FJVicVel03&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
 
 <br/>
 <b>Top Repositories</b>
